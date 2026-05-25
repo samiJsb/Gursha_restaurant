@@ -1,0 +1,8 @@
+{
+  "name": "Gursha Premium",
+  "description": "Enterprise-grade full-stack Ethiopian restaurant & cafe management platform with telemetry analytics, dynamic multi-tenant order management, Chapa, CBE Birr, and Telebirr payment services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
